@@ -1,0 +1,10 @@
+*-*-*-* LOG REPORT *-*-*-*
+
+Level count:
+  ERROR: 2
+  INFO: 2
+Number of errors: 2
+
+Errors list:
+1. Connection failed
+2. Database timeout
